@@ -1,0 +1,1 @@
+include ':app', ':dynamic_feature1', ':dynamic_feature2'

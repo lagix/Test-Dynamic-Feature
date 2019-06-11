@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesteDinamic</string>
+    <string name="title_dynamic_feature1">Feature 1</string>
+    <string name="title_dynamic_feature2">Feature 2</string>
+</resources>
